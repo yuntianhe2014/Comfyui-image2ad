@@ -10,3 +10,6 @@ https://xinghuo.xfyun.cn/sparkapi
 
 工作流如下：
 ![imge text](flow.png)
+
+作者公众号
+![imge text](img/微信图片_20240524180648.jpg)
