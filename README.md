@@ -6,4 +6,4 @@
 本项目依赖 讯飞免费的 【图片理解】接口
 https://xinghuo.xfyun.cn/sparkapi
 大家自行注册，获取对应的 秘钥，配置到 config.py中
-
+![imge text](flow.png)
